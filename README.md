@@ -19,7 +19,7 @@
 
 ## 📸 效果预览
 
-<img width="20.47" height="28。59" alt="22264b8cc6f92270eb5214cca61f05d5" src="https://github.com/user-attachments/assets/a7dbfff9-a120-4ae8-9b37-021d3ae1f3b6" />
+<img width="204.7" height="285.9" alt="22264b8cc6f92270eb5214cca61f05d5" src="https://github.com/user-attachments/assets/a7dbfff9-a120-4ae8-9b37-021d3ae1f3b6" />
 
 
 ## 🔧 使用方法
