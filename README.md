@@ -52,7 +52,13 @@
 
 ## 🙏 致谢
 
-基于 [KOReader](https://github.com/koreader/koreader) 社区生态开发，感谢所有贡献者。
+## 🙏 致谢与原作者
+
+本插件基于 Reddit 用户 [u/hundredpercentcocoa](https://www.reddit.com/user/hundredpercentcocoa/) 的原创代码开发。
+
+原始版本：[omer-faruq/koreader-user-patches](https://github.com/omer-faruq/koreader-user-patches)
+
+感谢原作者的创意与贡献！
 
 ## 📄 许可证
 
