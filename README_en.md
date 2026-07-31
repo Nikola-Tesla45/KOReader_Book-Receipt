@@ -1,4 +1,4 @@
-[简体中文](./README_zh.md) | **English**
+
 # 📖 KOReader Book Receipt Screensaver
 
 > Turn every time you put your device to sleep into a meaningful reading ritual.
