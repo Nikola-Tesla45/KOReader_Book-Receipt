@@ -5,6 +5,10 @@
 
 **Book Receipt Screensaver** is a custom screensaver patch for KOReader that automatically generates a clean, receipt-style reading summary whenever your device enters sleep mode. It provides an at-a-glance overview of your current book, including reading progress, chapter information, estimated time remaining, today's reading time, and more.
 
+## 💬 Community
+
+[![QQ Group](https://img.shields.io/badge/QQ_Group-627525507-12B7F5?logo=tencentqq)](https://qun.qq.com/universal-share/share?ac=1&authKey=%2Fta5WGRV%2BMwszV4Fk3m15RBvIsWFsiXA5YWwUdDCta519Vt8I%2BE%2FLO9wHiDfaCY9&busi_data=eyJncm91cENvZGUiOiI2Mjc1MjU1MDciLCJ0b2tlbiI6IkZSaEgzZks5dFA5am1paHhWdDdoSjFFdUdFYVk1bCtBajRpTkZRZFBFNlYzL1I3MXlOdkpkYkcwNmlVSE43UysiLCJ1aW4iOiI2MzU4MTI3MTAifQ%3D%3D&data=ippLlj9wYlBCY2YfJBVf9mWpaFzUvpZAjFKk_8ArUCvJ48ezpENOEBbb_FNZ7UuILWMG0O1yPIuHcs0aMOJMLQ&svctype=4&tempid=h5_group_info)
+
 ## ✨ Features
 
 - 📊 **Reading Progress Overview**: Displays overall book progress, current page/total pages, and chapter progress.
