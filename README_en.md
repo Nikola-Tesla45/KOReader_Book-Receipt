@@ -1,5 +1,6 @@
 
 # 📖 KOReader Book Receipt Screensaver
+[![English](https://img.shields.io/badge/English-12B7F5?style=for-the-badge&logo=github)](./README_en.md) [![简体中文](https://img.shields.io/badge/简体中文-555555?style=for-the-badge&logo=github)](./README.md)
 
 > Turn every time you put your device to sleep into a meaningful reading ritual.
 
