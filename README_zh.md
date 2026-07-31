@@ -6,9 +6,7 @@
 
 ## 💬 交流反馈
 
-如有使用疑问、建议或想第一时间获取更新，欢迎加入 QQ 群交流：
-
-<p align="center">
+如有使用疑问、建议或想第一时间获取更新，欢迎加入 QQ 群交流：<p align="center">
   <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=%2Fta5WGRV%2BMwszV4Fk3m15RBvIsWFsiXA5YWwUdDCta519Vt8I%2BE%2FLO9wHiDfaCY9&busi_data=eyJncm91cENvZGUiOiI2Mjc1MjU1MDciLCJ0b2tlbiI6IkZSaEgzZks5dFA5am1paHhWdDdoSjFFdUdFYVk1bCtBajRpTkZRZFBFNlYzL1I3MXlOdkpkYkcwNmlVSE43UysiLCJ1aW4iOiI2MzU4MTI3MTAifQ%3D%3D&data=ippLlj9wYlBCY2YfJBVf9mWpaFzUvpZAjFKk_8ArUCvJ48ezpENOEBbb_FNZ7UuILWMG0O1yPIuHcs0aMOJMLQ&svctype=4&tempid=h5_group_info" 
      style="display:inline-block;background-color:#12B7F5;color:white;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:16px;">
      💬 加入 QQ 群
