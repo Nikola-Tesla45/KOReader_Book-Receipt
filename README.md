@@ -1,67 +1,67 @@
 # 📖 KOReader Book Receipt Screensaver
 
-[中文](./README_zh.md) | **English**
+> Turn every time you put your device to sleep into a meaningful reading ritual.
 
-> Turn every device sleep into a reading ritual.
-
-**Book Receipt Screensaver** is a custom screensaver patch for KOReader that automatically generates a "reading receipt" when your device goes to sleep, clearly displaying current book reading progress, chapter information, remaining time, today's reading duration, and other key data — making your reading journey visible at a glance.
+**Book Receipt Screensaver** is a custom screensaver patch for KOReader that automatically generates a clean, receipt-style reading summary whenever your device enters sleep mode. It provides an at-a-glance overview of your current book, including reading progress, chapter information, estimated time remaining, today's reading time, and more.
 
 ## ✨ Features
 
-- 📊 **Reading Progress Overview**: Displays total book progress, current page/total pages, chapter progress
-- ⏱️ **Smart Time Estimation**: Automatically estimates remaining reading time (book/chapter) based on reading speed
-- 📈 **Today's Reading Stats**: Automatically counts today's reading duration with day of the week
-- 🎨 **Customizable Background**: White/Black/Transparent/Random Image/Book Cover
-- 🖼️ **Image Placement**: Fit to Screen / Stretch / Center
-- 🔋 **Device Status**: Real-time battery level and current time
-- 🎯 **Cover & Date Sync**: Cover aligned left, date displayed on the right (Year.Month / Day / Weekday), auto-hides date when background is set to "Book Cover"
-- 🌐 **Full Chinese Localization**: All interface text is in Chinese
-- 🛡️ **Stable & Reliable**: Clean layout ensures stable screensaver operation
-- 💡 **Quick View**: Supports gestures/keys to summon the receipt at any time
+- 📊 **Reading Progress Overview**: Displays overall book progress, current page/total pages, and chapter progress.
+- ⏱️ **Smart Time Estimation**: Automatically estimates the remaining reading time for both the current chapter and the entire book based on your reading speed.
+- 📈 **Daily Reading Statistics**: Tracks today's reading time and displays the current weekday.
+- 🎨 **Customizable Backgrounds**: Choose from white, black, transparent, random images, or the current book cover.
+- 🖼️ **Background Image Scaling**: Fit to screen, stretch, or center.
+- 🔋 **Device Status**: Shows the current battery level and time in real time.
+- 🎯 **Optimized Cover Layout**: Left-aligned book cover with the date displayed on the right (Year/Month, Day, Weekday). The date is automatically hidden when using the book cover as the background.
+- 🌐 **Fully Localized in Chinese**: All interface text has been translated and optimized for Chinese-speaking users.
+- 🛡️ **Stable & Reliable**: Clean layout designed for consistent and reliable screensaver performance.
+- 💡 **Quick Access**: Supports opening the receipt at any time via gestures or hardware buttons.
 
 ## 📸 Preview
 
-<img width="204.7" height="285.9" alt="preview" src="https://github.com/user-attachments/assets/a7dbfff9-a120-4ae8-9b37-021d3ae1f3b6" />
+<img width="204.7" height="285.9" alt="Book Receipt Screensaver Preview" src="https://github.com/user-attachments/assets/a7dbfff9-a120-4ae8-9b37-021d3ae1f3b6" />
 
-## 🔧 How to Use
+## 🔧 Installation
 
-1. Place the patch file in `koreader/patches/`
-2. Go to KOReader Settings → Screensaver → select "Book Receipt"
-3. Customize background, cover scale, etc. in "Book Receipt Settings"
+1. Copy the patch files into the `koreader/patches/` directory.
+2. In KOReader, go to **Settings → Screensaver** and select **Book Receipt**.
+3. Customize the background, cover scaling, and other options under **Book Receipt Settings**.
 
-## 📋 Configuration Options
+## 📋 Configuration
 
 | Option | Description |
-|--------|-------------|
-| Background | White fill / Transparent / Black fill / Random image / Book cover |
-| Image Placement | Fit to screen / Stretch / Center |
-| Content Mode | Book receipt / Highlight+Progress / Random |
-| Cover Scale | 0~2.0 (set to 0 to hide cover) |
+| ------ | ----------- |
+| Background | White Fill / Transparent / Black Fill / Random Image / Book Cover |
+| Background Image Placement | Fit to Screen / Stretch / Center |
+| Content Mode | Book Receipt / Highlights + Progress / Random |
+| Cover Scale | 0–2.0 (set to `0` to hide the cover) |
 
 ## 📝 Changelog
 
-### v2.1.1 (2026.07)
-- Full Chinese localization
-- Layout redesign: cover moved to left, date displayed on right (2026.07 / 30 / Wednesday)
-- Book title uses serif font (NotoSerif) with decorative dashes on both sides
-- Renamed "Book" to "Book Progress" for clarity
-- Chapter progress bar hides "Chapter" label, only shows chapter name
-- Date auto-hides when background is "Book Cover" to avoid overlap
-- Bottom bar simplified: battery left-aligned, time right-aligned
-- Added screensaver menu with background, content mode, cover scale options
-- Removed unstable shadow implementation, reverted to stable borders
-- Removed Emoji, replaced with dash decorations for better font compatibility
+### v2.1.1 (July 2026)
 
-### v1.0 (Original)
-- Initial English version
+- Fully localized all interface text into Chinese.
+- Redesigned the layout: moved the book cover to the left and displayed the date on the right (e.g. `2026.07 / 30 / Wednesday`).
+- Switched the book title to the **NotoSerif** font with decorative horizontal lines on both sides.
+- Renamed the progress heading from **Book** to **Book Progress** for improved clarity.
+- Removed the **Chapter** heading from the chapter progress section, leaving only the chapter title.
+- Automatically hides the top date when the background is set to **Book Cover** to prevent overlapping content.
+- Simplified the bottom status bar with the battery aligned left and the time aligned right.
+- Added a dedicated settings menu for background selection, content mode, cover scaling, and more.
+- Removed the unstable shadow rendering and reverted to a more reliable bordered design.
+- Replaced emoji decorations with horizontal lines to improve font compatibility.
+
+### v1.0
+
+- Initial English release.
 
 ## 🙏 Credits
 
-This patch is based on the original work by Reddit user [u/hundredpercentcocoa](https://www.reddit.com/user/hundredpercentcocoa/).
+This plugin is based on the original work by Reddit user **u/hundredpercentcocoa**.
 
-Original repository: [omer-faruq/koreader-user-patches](https://github.com/omer-faruq/koreader-user-patches)
+Original project: <https://github.com/omer-faruq/koreader-user-patches>
 
-Thanks to all contributors and testers!
+Thanks to the original author and everyone who contributed to testing and improvements.
 
 ## 📄 License
 
