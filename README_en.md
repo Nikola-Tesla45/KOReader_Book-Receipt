@@ -55,18 +55,14 @@
 - Added large-date mode for no-annotation scenarios: three-line centered display (year.month / large day / weekday)
 - Bottom status bar with intelligent联动: shows battery | date | time when highlights or cover background present, hides duplicate date in large-date mode
 
-### v2.1.1 (July 2026)
-
-- Fully localized all interface text into Chinese.
-- Redesigned the layout: moved the book cover to the left and displayed the date on the right (e.g. `2026.07 / 30 / Wednesday`).
-- Switched the book title to the **NotoSerif** font with decorative horizontal lines on both sides.
-- Renamed the progress heading from **Book** to **Book Progress** for improved clarity.
-- Removed the **Chapter** heading from the chapter progress section, leaving only the chapter title.
-- Automatically hides the top date when the background is set to **Book Cover** to prevent overlapping content.
-- Simplified the bottom status bar with the battery aligned left and the time aligned right.
-- Added a dedicated settings menu for background selection, content mode, cover scaling, and more.
-- Removed the unstable shadow rendering and reverted to a more reliable bordered design.
-- Replaced emoji decorations with horizontal lines to improve font compatibility.
+### v2.1.1 (2026.07)
+- Added random highlight display: randomly picks one annotation from current book to show on screensaver top, with vertical line decoration
+- Auto-falls back to large date (2026.07 / 30 / Wednesday) when no annotations exist
+- Bottom status bar shows battery and time; date displayed at bottom when highlights are present
+- Border thickened and darkened, radius reduced for a more receipt-like look
+- Added "Content Mode" configuration: Book Receipt / Highlight+Progress / Random
+- Introduced WidgetContainer:paintTo low-level drawing for much better border stability
+- Added "Custom Sleep Text" feature: customize the text displayed in date position during screensaver
 
 - ### v2.1 (2026.07)
 - Added random highlight display: randomly picks one annotation from current book to show on screensaver, with vertical line decoration
