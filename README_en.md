@@ -47,6 +47,14 @@
 
 ## 📝 Changelog
 
+### v2.2 (2026.08)
+- Added smart annotation/date switching: shows random highlight with vertical line when annotations exist, auto-switches to large date (2026.07 / 30 / Wednesday) when none, with smart bottom bar联动 to avoid duplicate date display
+- Redesigned border with ticket/receipt style: semi-circle perforations on top/bottom, notch cutouts on left/right, subtle shadow on bottom-right; uses low-level rendering to completely eliminate crash issues
+- Border now intelligently adapts to background: perforated ticket border for white/transparent backgrounds, standard square border for black/image/cover backgrounds
+- Added random highlight selection: each sleep or summon may show a different annotation, with page and chapter info displayed
+- Added large-date mode for no-annotation scenarios: three-line centered display (year.month / large day / weekday)
+- Bottom status bar with intelligent联动: shows battery | date | time when highlights or cover background present, hides duplicate date in large-date mode
+
 ### v2.1.1 (July 2026)
 
 - Fully localized all interface text into Chinese.
@@ -59,6 +67,28 @@
 - Added a dedicated settings menu for background selection, content mode, cover scaling, and more.
 - Removed the unstable shadow rendering and reverted to a more reliable bordered design.
 - Replaced emoji decorations with horizontal lines to improve font compatibility.
+
+- ### v2.1 (2026.07)
+- Added random highlight display: randomly picks one annotation from current book to show on screensaver, with vertical line decoration
+- Added smart date/highlight switching: shows highlight when available, otherwise shows large date (2026.07 / 30 / Wednesday)
+- Top layout optimized: cover left-aligned, date right-aligned with auto-adapting height
+- Bottom status bar now syncs with top mode: shows battery | date | time when highlight or cover background is present, hides duplicate date in large-date mode
+- Border thickened and darkened, radius reduced for a more receipt-like look
+- Added "Content Mode" configuration: Book Receipt / Highlight+Progress / Random
+- Added "Custom Sleep Text" feature: customize the text displayed in date position during screensaver
+- Introduced WidgetContainer:paintTo low-level drawing for much better border stability
+
+- ### v2.0 (2026.07)
+- Full Chinese localization for all interface text
+- Layout redesign: cover moved to left, date displayed on right (2026.07 / 30 / Wednesday)
+- Book title now uses serif font (NotoSerif) with decorative dashes on both sides
+- Progress title renamed from "Book" to "Book Progress" for clarity
+- Chapter progress bar hides "Chapter" label, only displays chapter name
+- Date auto-hides when background is set to "Book Cover" to avoid overlap
+- Bottom status bar simplified: battery left-aligned, time right-aligned
+- Added screensaver menu options: background, content mode, cover scale adjustment
+- Removed unstable shadow implementation, reverted to stable borders
+- Removed Emoji, replaced with dash decorations for better font compatibility
 
 ### v1.0
 
