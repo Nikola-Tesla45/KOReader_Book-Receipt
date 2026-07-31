@@ -1,4 +1,5 @@
 # 📖 KOReader 阅读小票插件
+[![English](https://img.shields.io/badge/English-555555?style=for-the-badge&logo=github)](./README_en.md) [![简体中文](https://img.shields.io/badge/简体中文-12B7F5?style=for-the-badge&logo=github)](./README.md)
 
 > 让每一次合上设备，都成为一次阅读的仪式感。
 
