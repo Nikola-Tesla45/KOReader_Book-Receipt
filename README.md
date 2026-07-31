@@ -20,7 +20,10 @@
 
 ## 📸 Preview
 
-<img width="204.7" height="285.9" alt="Book Receipt Screensaver Preview" src="https://github.com/user-attachments/assets/a7dbfff9-a120-4ae8-9b37-021d3ae1f3b6" />
+<img width="128.0" height="182.9" alt="6144ea3d628270c365572feb9077dece" src="https://github.com/user-attachments/assets/60024b3c-06ab-41e1-8010-00deebf698bb" />
+<img width="127.9" height="177.5" alt="b66d2edb99edea36948853b7c031a8c2" src="https://github.com/user-attachments/assets/4f339576-6042-4f5a-9c86-eab8d068a167" />
+
+
 
 ## 🔧 Installation
 
