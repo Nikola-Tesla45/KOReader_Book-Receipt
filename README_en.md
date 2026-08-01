@@ -100,4 +100,4 @@ Thanks to the original author and everyone who contributed to testing and improv
 
 ## 📄 License
 
-MIT License
+GNU General Public License v3.0
