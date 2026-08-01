@@ -1,4 +1,6 @@
--- Copyright (C) 2026 Nikola-Tesla45
+-- Original code by: Reddit user hundredpercentcocoa
+-- Original repository: omer-faruq/koreader-user-patches
+-- Modifications and enhancements: Nikola-Tesla45
 -- SPDX-License-Identifier: GPL-3.0-or-later
 local Blitbuffer = require("ffi/blitbuffer")
 local CenterContainer = require("ui/widget/container/centercontainer")
